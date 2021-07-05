@@ -4,13 +4,13 @@ I'm Daniel Molnar from Tuzla (:bosnia_herzegovina:)
 
 ### :computer: My free time I'm spending with web development and share my time with following technologies:
 
-- HTML + CSS + LESS(CSSS) + Material UI + Tailwind UI
-- JavaScript + TypeScript
+- ```HTML + CSS + LESS(CSSS) + Material UI + Tailwind UI```
+- ```JavaScript + TypeScript```
 
-- React.js
-- Next.js - great React framework with front-end + back-end side
+- ```React.js```
+- ```Next.js``` - great React framework with front-end + back-end side
 
-- VSC - everyday for breakfast :coffee:
+- ```VSC``` - everyday for breakfast :coffee:
 #
 
 
