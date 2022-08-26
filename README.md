@@ -10,6 +10,8 @@ I'm Daniel Molnar from Tuzla (:bosnia_herzegovina:)
 - ```React.js```
 - ```Next.js``` - great React framework with front-end + back-end side
 
+- ```Elixir -> Phoenix web framework + LiveView``` - currently working on
+
 - ```VSC``` - everyday for breakfast :coffee:
 #
 
